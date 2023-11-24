@@ -1,2 +1,2 @@
 # HomeWork7Patterns
-MyVariant contains implementation of patterns: Factory method and Adapter.
+In my variant I implemented patterns: Factory method and Adapter.
